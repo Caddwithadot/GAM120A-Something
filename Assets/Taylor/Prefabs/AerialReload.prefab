@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5817542896390270075}
   - component: {fileID: 5817542896390270074}
   m_Layer: 0
-  m_Name: ArialReload
+  m_Name: AerialReload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
