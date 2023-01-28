@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
+  - Ground
+  - Bounce
+  - Hazard
+  - Room
+  - CMvcam
   layers:
   - Default
   - TransparentFX
