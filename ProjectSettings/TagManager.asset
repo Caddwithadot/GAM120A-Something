@@ -4,17 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Bullet
-  - Ground
-  - Bounce
-  - Hazard
   - Room
+  - Ground
+  - Hazard
+  - Bullet
+  - Bounce
   - CMvcam
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - TestLayer
   - Water
   - UI
   - 
