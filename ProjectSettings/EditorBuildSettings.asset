@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Taylor/Taylor_Test.unity
     guid: 79cef5095d7aa0a4796dffa6d9f08ee2
+  - enabled: 1
+    path: Assets/Taylor/Main_Menu.unity
+    guid: e11db62796db5a543b192ac0b752f17c
   m_configObjects: {}
