@@ -244,6 +244,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7203813537428158315, guid: eb13d92c3523e9c43a85622c2c579181, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"player","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PositionA","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PositionB","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PlatformMoveSpeed","value":{"$content":0.25,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973660516792169075, guid: eb13d92c3523e9c43a85622c2c579181, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7973660516792169075, guid: eb13d92c3523e9c43a85622c2c579181, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb13d92c3523e9c43a85622c2c579181, type: 3}
 --- !u!4 &610604803 stripped
@@ -388,7 +404,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4160807921692589067, guid: eb13d92c3523e9c43a85622c2c579181, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 238
+      value: 241.4
       objectReference: {fileID: 0}
     - target: {fileID: 4160807921692589067, guid: eb13d92c3523e9c43a85622c2c579181, type: 3}
       propertyPath: m_LocalPosition.y
@@ -446,6 +462,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3376214219593135818, guid: 792aa87646918a24cbaff6923f1731f8, type: 3}
       propertyPath: m_Follow
+      value: 
+      objectReference: {fileID: 1717021308}
+    - target: {fileID: 3376214219593135818, guid: 792aa87646918a24cbaff6923f1731f8, type: 3}
+      propertyPath: m_LookAt
       value: 
       objectReference: {fileID: 1717021308}
     - target: {fileID: 3376214219593135819, guid: 792aa87646918a24cbaff6923f1731f8, type: 3}
@@ -632,7 +652,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"shootCooldown","value":{"$content":0.4,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MaxBulletCount","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"CurrentBulletCount","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"SpawnPoint","value":{"x":64.0,"y":5.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"SpawnPoint","value":{"x":217.0,"y":-7.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"fuckingdontmove","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
@@ -4006,11 +4026,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5858562392147951487, guid: f34dbdd4b0fabf74caf13d93a402dcbd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -38.798523
+      value: -67.5
       objectReference: {fileID: 0}
     - target: {fileID: 5858562392147951487, guid: f34dbdd4b0fabf74caf13d93a402dcbd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.663551
+      value: -21
       objectReference: {fileID: 0}
     - target: {fileID: 5858562392147951487, guid: f34dbdd4b0fabf74caf13d93a402dcbd, type: 3}
       propertyPath: m_LocalPosition.z
