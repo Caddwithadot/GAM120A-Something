@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2766447885614858157}
   - component: {fileID: 2766447885614858154}
   m_Layer: 0
-  m_Name: BouncyPad
+  m_Name: BouncyBounceOLD
   m_TagString: Bounce
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
