@@ -12,6 +12,7 @@ TagManager:
   - CMvcam
   - Rat
   - Button
+  - Wall
   layers:
   - Default
   - TransparentFX
