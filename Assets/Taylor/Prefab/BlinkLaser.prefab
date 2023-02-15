@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 4227430169526268776}
   - component: {fileID: 4227430169526268779}
   - component: {fileID: 4227430169526268778}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 8243594923310981906}
   - component: {fileID: 8243594923310981905}
   - component: {fileID: 8243594923310981904}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Line
   m_TagString: Untagged
   m_Icon: {fileID: 0}
