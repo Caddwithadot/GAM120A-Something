@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1449068537594758825, guid: 0fa9923d9508867429794b2ef35db351, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 43.17
+      objectReference: {fileID: 0}
     - target: {fileID: 2722240463005701087, guid: 0fa9923d9508867429794b2ef35db351, type: 3}
       propertyPath: m_Name
       value: RoomGapExample
@@ -16874,7 +16878,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!212 &1978980296
 SpriteRenderer:
   m_ObjectHideFlags: 0
