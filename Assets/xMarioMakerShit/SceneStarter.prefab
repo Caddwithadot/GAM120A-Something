@@ -634,7 +634,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"CurrentRoom","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &5858562393564348925
 MonoBehaviour:
@@ -911,10 +912,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5858562392980958942}
     m_Modifications:
-    - target: {fileID: 1180648901, guid: 53b3c6ab9bf2fb246bdf502bfb062d14, type: 3}
-      propertyPath: m_Volume
-      value: 0.5
-      objectReference: {fileID: 0}
     - target: {fileID: 8484229720906888464, guid: 53b3c6ab9bf2fb246bdf502bfb062d14, type: 3}
       propertyPath: m_Name
       value: Player (InsideParent)
@@ -1187,11 +1184,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5944393813531078466, guid: 2f98f36a982dbd24d970250e9f23ebcc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 31.6
+      value: 96.8
       objectReference: {fileID: 0}
     - target: {fileID: 5944393813531078466, guid: 2f98f36a982dbd24d970250e9f23ebcc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 41.1
+      value: 40.9
       objectReference: {fileID: 0}
     - target: {fileID: 5944393813531078466, guid: 2f98f36a982dbd24d970250e9f23ebcc, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1227,7 +1224,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5944393813531078467, guid: 2f98f36a982dbd24d970250e9f23ebcc, type: 3}
       propertyPath: m_Name
-      value: EndTube+Button
+      value: EndTube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f98f36a982dbd24d970250e9f23ebcc, type: 3}
