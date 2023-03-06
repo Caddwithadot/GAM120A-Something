@@ -13,6 +13,7 @@ TagManager:
   - Rat
   - Button
   - Wall
+  - Hamster
   layers:
   - Default
   - TransparentFX
