@@ -883,6 +883,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6948337864029036540, guid: 580ae24207cec4c4aab3baa83aa88960, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"LineRenderer","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"LaserTrigger","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OffDuration","value":{"$content":8.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 6948337864146917691, guid: 580ae24207cec4c4aab3baa83aa88960, type: 3}
       propertyPath: m_LocalPosition.x
       value: -35.55
@@ -1239,11 +1246,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5116214454762670773, guid: f34dbdd4b0fabf74caf13d93a402dcbd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 429.7
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 5116214454762670773, guid: f34dbdd4b0fabf74caf13d93a402dcbd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 177.9
+      value: 42.2
       objectReference: {fileID: 0}
     - target: {fileID: 5858562392980958942, guid: f34dbdd4b0fabf74caf13d93a402dcbd, type: 3}
       propertyPath: m_RootOrder
@@ -8703,6 +8710,13 @@ PrefabInstance:
     - target: {fileID: 6948337864029036514, guid: 580ae24207cec4c4aab3baa83aa88960, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6948337864029036540, guid: 580ae24207cec4c4aab3baa83aa88960, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"LineRenderer","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"LaserTrigger","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OffDuration","value":{"$content":8.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6948337864146917691, guid: 580ae24207cec4c4aab3baa83aa88960, type: 3}
       propertyPath: m_LocalPosition.x
