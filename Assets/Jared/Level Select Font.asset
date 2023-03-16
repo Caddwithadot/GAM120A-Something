@@ -99,7 +99,7 @@ Material:
     - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
     - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
     - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
-    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutlineColor: {r: 0.017641952, g: 0.000607054, b: 0.039546248, a: 1}
     - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
@@ -115,11 +115,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
-  m_Name: Eight-Bit Madness SDF
+  m_Name: Level Select Font
   m_EditorClassIdentifier: 
-  hashCode: 166435671
+  hashCode: 1486396365
   material: {fileID: -7977437551875318696}
-  materialHashCode: 206922519
+  materialHashCode: 634033357
   m_Version: 1.1.0
   m_SourceFontFileGUID: b23e33ab82c814d4189c7b61c0255375
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: b23e33ab82c814d4189c7b61c0255375, type: 3}
