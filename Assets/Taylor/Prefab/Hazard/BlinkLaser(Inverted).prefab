@@ -5320,7 +5320,7 @@ GameObject:
   - component: {fileID: 3931529183004149086}
   m_Layer: 0
   m_Name: Laser_Green_Base_1
-  m_TagString: Wall
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5451,7 +5451,7 @@ GameObject:
   - component: {fileID: 9181390619647021765}
   m_Layer: 0
   m_Name: Schnozz
-  m_TagString: Wall
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
