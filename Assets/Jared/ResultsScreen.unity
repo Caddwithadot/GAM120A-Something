@@ -5291,7 +5291,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: DEV TIME...........
+  m_text: DEV BEST...........
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
   m_sharedMaterial: {fileID: -7977437551875318696, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
@@ -6801,7 +6801,8 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Level_15_Time","value":{"$content":[16,16,16],"$type":"System.Collections.Generic.List`1[[System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ContinueButton","value":{"$content":10,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1325333111}
     - {fileID: 1862335731}
@@ -6813,6 +6814,7 @@ MonoBehaviour:
     - {fileID: 1564567697}
     - {fileID: 635743378}
     - {fileID: 836111447}
+    - {fileID: 1966597975}
 --- !u!1 &1391790925
 GameObject:
   m_ObjectHideFlags: 0
@@ -8070,7 +8072,7 @@ GameObject:
   - component: {fileID: 1966597980}
   m_Layer: 5
   m_Name: Continue
-  m_TagString: Respawn
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
