@@ -59,4 +59,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Jake/Level15.unity
     guid: 000289617ed43494da2b2e9535be0f88
+  - enabled: 1
+    path: Assets/Jared/IntroCutscene.unity
+    guid: 80df0a18f96ad75448c206a4fb673c42
+  - enabled: 1
+    path: Assets/Jared/EndingCutscene.unity
+    guid: 91825ab54566f5f4f9dc437d02d282fa
   m_configObjects: {}
