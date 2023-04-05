@@ -206,7 +206,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5858562392147951482}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.279948, y: -0.15007997, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1023,14 +1023,6 @@ PrefabInstance:
     - target: {fileID: 4481891922644992031, guid: 86ddc1c0fef49aa438de37f6561dcfe6, type: 3}
       propertyPath: m_Name
       value: TransitionCanvas
-      objectReference: {fileID: 0}
-    - target: {fileID: 7660851353595638806, guid: 86ddc1c0fef49aa438de37f6561dcfe6, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 1920
-      objectReference: {fileID: 0}
-    - target: {fileID: 7660851353595638806, guid: 86ddc1c0fef49aa438de37f6561dcfe6, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 1080
       objectReference: {fileID: 0}
     - target: {fileID: 8039389987889319438, guid: 86ddc1c0fef49aa438de37f6561dcfe6, type: 3}
       propertyPath: m_Pivot.x
