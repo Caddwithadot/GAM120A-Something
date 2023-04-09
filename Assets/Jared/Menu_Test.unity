@@ -8221,8 +8221,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -840, y: 427.5}
-  m_SizeDelta: {x: 800, y: 560}
+  m_AnchoredPosition: {x: -847.4927, y: 427.42273}
+  m_SizeDelta: {x: 803.5482, y: 562.6539}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &652401504
 MonoBehaviour:
@@ -13870,8 +13870,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -840, y: 427.5}
-  m_SizeDelta: {x: 800, y: 560}
+  m_AnchoredPosition: {x: -847.4927, y: 427.42273}
+  m_SizeDelta: {x: 803.5482, y: 562.6539}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1133202470
 MonoBehaviour:
@@ -30557,8 +30557,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -840, y: 427.5}
-  m_SizeDelta: {x: 800, y: 560}
+  m_AnchoredPosition: {x: -847.4927, y: 427.42273}
+  m_SizeDelta: {x: 803.5482, y: 562.6539}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2073623251
 MonoBehaviour:
@@ -30991,8 +30991,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Project Nasu Gold v0.3.5
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
-  m_sharedMaterial: {fileID: -7977437551875318696, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 86dd3bd8b9851674f86bb67ca3d46b52, type: 2}
+  m_sharedMaterial: {fileID: -7977437551875318696, guid: 86dd3bd8b9851674f86bb67ca3d46b52, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
