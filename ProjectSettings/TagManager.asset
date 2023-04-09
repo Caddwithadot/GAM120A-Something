@@ -17,6 +17,7 @@ TagManager:
   - RatSpawner
   - CoinCanvas
   - Coin
+  - BGM
   layers:
   - Default
   - TransparentFX
