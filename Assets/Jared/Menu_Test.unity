@@ -5063,8 +5063,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -38.5}
-  m_SizeDelta: {x: 216.6268, y: 78.83}
+  m_AnchoredPosition: {x: 0, y: -64.22}
+  m_SizeDelta: {x: 229.3245, y: 6.5244}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &387314563
 MonoBehaviour:
@@ -5086,23 +5086,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Missing Link
-
-
-    Missing Link
-
-
-    Missing Link
-
-
-    Missing Link
-
-
-    Missing
-    Link
-
-
-    Missing Link'
+  m_text: https://www.youtube.com/watch?v=uWILfcPIyto
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
   m_sharedMaterial: {fileID: -7977437551875318696, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
@@ -7060,7 +7044,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Eight-Bit Madness by Tsunamical
+  m_text: '"Eight-Bit Madness" by Tsunamical'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
   m_sharedMaterial: {fileID: -7977437551875318696, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
@@ -24426,8 +24410,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -34}
-  m_SizeDelta: {x: 216.6298, y: 78.83}
+  m_AnchoredPosition: {x: 0, y: -34.1}
+  m_SizeDelta: {x: 222.1826, y: 78.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1512210577
 MonoBehaviour:
@@ -24449,23 +24433,26 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Main Menu
+  m_text: 'Main Menu - "TUNDRA" by Context Sensitive (Evan King)
 
 
-    Main Game
+    Levels 1 -
+    5  - "OFTEN" by Context Sensitive (Evan King)
 
 
-    Result Screen
+    Levels 6 - 10  - "CERULEAN"
+    by Context Sensitive (Evan King)
 
 
-    Chase Sequence
+    Levels 11 - 14  - "ANODE" by Context Sensitive
+    (Evan King)
 
 
-    Start
-    Cutscene
+    Level 15  - "MOON BASE" by Context Sensitive (Evan King)
 
 
-    Final Cutscene'
+    Results 
+    - "FILTHY CASUALS" by Context Sensitive (Evan King)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
   m_sharedMaterial: {fileID: -7977437551875318696, guid: 30c69cc1a741c9b44a5a52f7065a0ab5, type: 2}
@@ -26844,7 +26831,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -63.8}
+  m_AnchoredPosition: {x: 0, y: -67.41}
   m_SizeDelta: {x: 217.7621, y: 4.4383}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1786088267
