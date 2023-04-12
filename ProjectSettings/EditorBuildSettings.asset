@@ -65,4 +65,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Jared/EndingCutscene.unity
     guid: 91825ab54566f5f4f9dc437d02d282fa
+  - enabled: 1
+    path: Assets/Jared/TrueEndingCutscene.unity
+    guid: 7e11c51f8963a8e459aa438cf390eab5
   m_configObjects: {}
