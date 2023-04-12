@@ -18,6 +18,7 @@ TagManager:
   - CoinCanvas
   - Coin
   - BGM
+  - Transition
   layers:
   - Default
   - TransparentFX
