@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7777480133105388426}
   - component: {fileID: 5921208388756643406}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: death
   m_TagString: Hazard
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
