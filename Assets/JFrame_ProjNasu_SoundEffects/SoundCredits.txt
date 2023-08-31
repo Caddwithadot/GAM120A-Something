@@ -30,3 +30,5 @@ Scifi, Energy, Electric, Force Field SND34805
 Scifi, Machine, Charge Up, Power On, Ascend SND68853
 Voices, Misc, Popping Sounds With Mouth SND3147
 Wings, Bird, Wing Flaps, Low SND11280
+Swooshes, Swish, Organic, Wind, Cool, Fast SND55348
+Animals, Rodent, Rabbit, Squeal, Afraid, Angry SND1812
